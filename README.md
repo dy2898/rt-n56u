@@ -15,4 +15,4 @@ Contributors of this project are not responsible for what happens next.
 
 ### Contribution guidelines ###
 
-* To be completed
+* To be completed 
